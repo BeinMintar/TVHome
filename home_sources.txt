@@ -6,6 +6,7 @@
 凤凰中文,http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
 龙华电影台,http://114.33.60.49:8539/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 东森超视,http://114.33.60.49:8525/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 东森戏剧,http://114.33.60.49:8530/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
