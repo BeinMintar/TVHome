@@ -1,4 +1,4 @@
-📡🧧央视卫视,#genre#
+📡央视卫视,#genre#
 CCTV1,http://[2409:8087:74d9:21::6]/270000001128/9900000001/index.m3u8$甘肃6IPV6
 CCTV1,http://[2409:8087:74d9:21::6]/270000001128/9900000501/index.m3u8$甘肃6IPV6
 CCTV2,http://[2409:8087:74d9:21::6]/270000001128/9900000502/index.m3u8$甘肃6IPV6
@@ -586,6 +586,12 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 🌎港澳台.全球,#genre#
 凤凰资讯,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
 凤凰中文,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰中文,http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
 龙华电影台,http://114.33.60.49:8539/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 东森超视,http://114.33.60.49:8525/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 东森戏剧,http://114.33.60.49:8530/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
@@ -593,28 +599,14 @@ AXN台湾,http://114.33.60.49:8558/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
 HBO台湾,http://114.33.60.49:8557/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
 纬来体育,http://114.33.60.49:8563/http/61.219.99.20:8081/hls/67/809/ch28.m3u8
 
-凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
-凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
-
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-
-凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
-
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-
-翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=631170156121436&edge=live.tvfree.sbs
-TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=631170156121436&edge=live.tvfree.sbs
-
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 
 韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
@@ -683,30 +675,12 @@ RT Doc-Русский,https://hls.rt.com/hls/rtdru360.m3u8
 🔥AKTV港澳世界,#genre#
 鳯凰資訊,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
 鳯凰中文,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
-爱放台,https://aktv.top/myaktv/LIVE/659abeaf94699c7ce818764a568d1bf8.m3u8
 韩国NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 鳳凰中文ak,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊ak,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+鳳凰香港ak,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 
 🐼4k专区,#genre#
