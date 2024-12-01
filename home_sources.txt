@@ -1,4 +1,4 @@
-🌎港澳台.全球,#genre#
+🇨🇳中国,#genre#
 凤凰资讯,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
 凤凰中文,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -8,13 +8,9 @@
 凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
 龙华电影台,http://114.33.60.49:8539/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
-东森超视,http://114.33.60.49:8525/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
-东森戏剧,http://114.33.60.49:8530/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
 AXN台湾,http://114.33.60.49:8558/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
 HBO台湾,http://114.33.60.49:8557/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
-纬来体育,http://114.33.60.49:8563/http/61.219.99.20:8081/hls/67/809/ch28.m3u8
 
-韩国NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 动物频道 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 动物频道 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 动物频道 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -421,7 +417,7 @@ CCTV15,http://123.182.60.29:9002/hls/15/index.m3u8
 译制国语,http://159.75.85.63:35455/douyu/2436390
 
 
-💃广场舞,#genre#
+🎶广场舞,#genre#
 情歌悠悠爱飞扬,https://vd4.bdstatic.com/mda-qeaik66bjr07tpjp/1080p/cae_h264/1715433117628854942/mda-qeaik66bjr07tpjp.mp4
 妈妈的爱还不够,https://vd2.bdstatic.com/mda-qeaifhabdwrqh25z/1080p/cae_h264/1715451174442635371/mda-qeaifhabdwrqh25z.mp4
 心上的罗加,https://vd2.bdstatic.com/mda-qed1grvwgzba6nxf/1080p/cae_h264/1715649340526247510/mda-qed1grvwgzba6nxf.mp4
@@ -664,5 +660,3 @@ CCTV15,http://123.182.60.29:9002/hls/15/index.m3u8
 2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
-
-// 测试,#genre#
