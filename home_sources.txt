@@ -6,13 +6,13 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
-凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8  
+ 凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8  
+ 凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
 
 动物频道 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 动物频道 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -368,6 +368,70 @@ CCTV15,http://123.182.60.29:9002/hls/15/index.m3u8
 四川卫视,http://123.182.60.29:9002/hls/36/index.m3u8
 深圳卫视,http://123.182.60.29:9002/hls/39/index.m3u8
 云南卫视,http://123.182.60.29:9002/hls/33/index.m3u8
+
+
+🌕高清央视,#genre#
+CCTV1,http://lu.wqwqwq.sbs/gaoma/cctv1.m3u8
+CCTV1,http://lu.wqwqwq.sbs/itv/6000000001000029752.m3u8?cdn=wasusyt
+CCTV1,http://lu.wqwqwq.sbs/itv/5000000004000002226.m3u8?cdn=bestzb
+CCTV1,http://lu.wqwqwq.sbs/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV2,http://lu.wqwqwq.sbs/gaoma/cctv2.m3u8
+CCTV2,http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV2,http://lu.wqwqwq.sbs/itv/6000000001000014161.m3u8?cdn=wasusyt
+CCTV2,http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV3,http://lu.wqwqwq.sbs/gaoma/cctv3.m3u8
+CCTV3,http://lu.wqwqwq.sbs/itv/6000000001000022313.m3u8?cdn=wasusyt
+CCTV3,http://lu.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV4,http://lu.wqwqwq.sbs/gaoma/cctv4.m3u8
+CCTV4,http://lu.wqwqwq.sbs/itv/5000000011000031102.m3u8?cdn=bestzb
+CCTV4,http://lu.wqwqwq.sbs/itv/1000000005000265004.m3u8?cdn=ystenlive
+CCTV5,http://lu.wqwqwq.sbs/gaoma/cctv5.m3u8
+CCTV5,http://lu.wqwqwq.sbs/itv/1000000005000025222.m3u8?cdn=ystenlive
+CCTV5,http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive
+CCTV5+,http://lu.wqwqwq.sbs/gaoma/cctv5p.m3u8
+CCTV5+,http://lu.wqwqwq.sbs/itv/6000000001000015875.m3u8?cdn=wasusyt
+CCTV5+,http://lu.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV6,http://lu.wqwqwq.sbs/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv
+CCTV6,http://lu.wqwqwq.sbs/itv/1000000001000001737.m3u8?cdn=ystenlive
+CCTV6,http://lu.wqwqwq.sbs/itv/6000000001000004574.m3u8?cdn=wasusyt
+CCTV6,http://lu.wqwqwq.sbs/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV7,http://lu.wqwqwq.sbs/gaoma/cctv7.m3u8
+CCTV7,http://lu.wqwqwq.sbs/itv/1000000001000024341.m3u8?cdn=ystenlive
+CCTV7,http://lu.wqwqwq.sbs/itv/6000000001000009055.m3u8?cdn=wasusyt
+CCTV7,http://lu.wqwqwq.sbs/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV8,http://lu.wqwqwq.sbs/gaoma/cctv8.m3u8
+CCTV8,http://lu.wqwqwq.sbs/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv
+CCTV8,http://lu.wqwqwq.sbs/itv/6000000001000001070.m3u8?cdn=wasusyt
+CCTV8,http://lu.wqwqwq.sbs/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV9,http://lu.wqwqwq.sbs/gaoma/cctv9.m3u8
+CCTV9,http://lu.wqwqwq.sbs/itv/1000000001000014583.m3u8?cdn=ystenlive
+CCTV9,http://lu.wqwqwq.sbs/itv/6000000001000032162.m3u8?cdn=wasusyt
+CCTV9,http://lu.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV10,http://lu.wqwqwq.sbs/gaoma/cctv10.m3u8
+CCTV10,http://lu.wqwqwq.sbs/itv/1000000001000023734.m3u8?cdn=ystenlive
+CCTV10,http://lu.wqwqwq.sbs/itv/5000000004000012827.m3u8?cdn=bestzb
+CCTV10,http://lu.wqwqwq.sbs/itv/1000000005000265010.m3u8?cdn=ystenlive
+CCTV11,http://lu.wqwqwq.sbs/gaoma/cctv11.m3u8
+CCTV11,http://lu.wqwqwq.sbs/itv/5000000011000031106.m3u8?cdn=bestzb
+CCTV11,http://lu.wqwqwq.sbs/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV12,http://lu.wqwqwq.sbs/gaoma/cctv12.m3u8
+CCTV12,http://lu.wqwqwq.sbs/itv/1000000001000032494.m3u8?cdn=ystenlive
+CCTV12,http://lu.wqwqwq.sbs/itv/6000000001000022586.m3u8?cdn=wasusyt
+CCTV12,http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV13,http://lu.wqwqwq.sbs/gaoma/cctv13.m3u8
+CCTV13,http://lu.wqwqwq.sbs/itv/5000000011000031108.m3u8?cdn=bestzb
+CCTV14,http://lu.wqwqwq.sbs/gaoma/cctv14.m3u8
+CCTV14,http://lu.wqwqwq.sbs/itv/1000000001000008170.m3u8?cdn=ystenlive
+CCTV14,http://lu.wqwqwq.sbs/itv/5000000004000006673.m3u8?cdn=bestzb
+CCTV14,http://lu.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV15,http://lu.wqwqwq.sbs/gaoma/cctv15.m3u8
+CCTV15,http://lu.wqwqwq.sbs/itv/5000000011000031109.m3u8?cdn=bestzb
+CCTV15,http://lu.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive
+CCTV16,http://lu.wqwqwq.sbs/gaoma/cctv16.m3u8
+CCTV16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV17,http://lu.wqwqwq.sbs/gaoma/cctv17.m3u8
+CCTV17,http://lu.wqwqwq.sbs/itv/1000000006000268004.m3u8?cdn=ystenlive
+CCTV17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 
 🐼移动IPV4,#genre#
